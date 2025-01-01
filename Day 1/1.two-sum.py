@@ -2,7 +2,8 @@
 # @lc app=leetcode id=1 lang=python
 #
 # [1] Two Sum
-#
+# O(n^2)
+
 
 # @lc code=start
 class Solution(object):
