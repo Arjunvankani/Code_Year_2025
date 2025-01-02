@@ -7,3 +7,8 @@
 ### DSA : Two sum Problem
         
 ### ML : Linear Regression Problem
+
+
+## Day 2 : 
+
+### DSA : Palidrome
